@@ -1,0 +1,61 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+env/
+venv/
+ENV/
+.venv/
+
+# VS Code settings (optional)
+.vscode/
+
+# Mac/Linux system files
+.DS_Store
+
+# Windows system files
+Thumbs.db
+
+# Python-specific
+*.log
+*.pot
+*.pyc
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Test / coverage / profiling
+*.cover
+.coverage
+coverage.xml
+.cache
+nosetests.xml
+*.prof
+
+# MyPy
+.mypy_cache/
+
+# Pytest
+.pytest_cache/
+
+# Pylint
+pylint-report.txt
+pylint-global.rc
+
+# Ignore images if not needed in repo
+# images/
+
+# Ignore database or runtime files if generated
+*.sqlite3
+*.db
+
+# Ignore secret or local env config (if any)
+.env
+.env.*
+
+# Ignore build artifacts
+build/
+dist/
+*.egg-info/
