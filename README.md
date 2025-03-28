@@ -18,8 +18,6 @@ The project is a text-based geography trivia game designed to engage users by te
 ### Implementation
 The game is implemented in Python using a modular approach. A list of dictionaries stores questions and answers, and functions handle tasks like question display, answer validation, and score updates. A main game loop drives the gameplay, allowing players to continue or exit after each question. Errors like invalid inputs are handled gracefully. Testing was conducted to ensure case-insensitive answer validation and smooth badge awarding.
 
-Include relevant screenshots of your game at different stages of play in the report.
-
 ## 🖼️ Screenshots
 
 <details>
